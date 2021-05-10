@@ -1,0 +1,36 @@
+.button {
+    background-color: red;
+    color: white;
+    width: 120px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border-width: 0px;
+    cursor: pointer;
+    margin-left: 46%;
+}
+
+.dropdownmenu {
+    display: none;
+    flex-direction: column;
+    width: 200px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: grey;
+    border-radius: 5px;
+    margin-left: 46%;
+}
+
+.innerdiv {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    padding-top: 10px;
+    margin-left: 10px;
+}
